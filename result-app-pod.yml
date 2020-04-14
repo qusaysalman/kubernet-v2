@@ -10,7 +10,7 @@
    containers:
    - name: result-app
      image: dockersamples/examplevotingapp_result
-     ports:
+    ports:
      - containerPort: 80
 
 
