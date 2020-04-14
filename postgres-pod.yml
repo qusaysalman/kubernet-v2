@@ -11,6 +11,6 @@
    - name: postgres
      image: postgres:9.4
      ports:
-       containerPort: 5432
+     - containerPort: 5432
 
 
